@@ -1,6 +1,6 @@
 DX14
 ====
 
-Thi repository containes the test case and experimental results of the algorithm described in the paper "TITLE"  (Read "FILENAME" for further details).
-Document describes the test cases, which DES systems are used and how these have beeen generated.
+This repository contains the test cases and the experimental results of the algorithms described in the paper "TITLE"  (Read "FILENAME" for further details).
+"DOCNAME" describes the test cases, the DES systems used and how these have been generated.
 
